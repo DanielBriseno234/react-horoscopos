@@ -1,0 +1,23 @@
+/* InputFecha.css */
+.input-fecha {
+  text-align: center;
+  width: 100%;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  font-family: 'Roboto', sans-serif;
+  padding: 0.5rem;
+  margin: 1rem;
+}
+
+.btn-fecha{
+  padding: 0.5rem;
+  width: 100%;
+  cursor: pointer;
+  background-color: rgb(53, 53, 53);
+  color: white;
+  text-transform: uppercase;
+  border: none;
+}
+
+.btn-fecha :hover{
+  background-color: rgb(255, 255, 255);
+}

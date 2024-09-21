@@ -1,0 +1,25 @@
+
+
+.imagen-signo img {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  margin-bottom: 20px;
+  background-color: white;
+}
+
+.titulo-signo{
+  color: white;
+  text-transform: uppercase;
+  margin-bottom: 0.5rem;
+}
+
+.fecha-signo{
+  color: white;
+  margin-bottom: 0.5rem;
+}
+
+.descripcion-signo{
+  color: white;
+  text-align: justify;
+}
